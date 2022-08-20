@@ -1,0 +1,179 @@
+['1-3-2021.txt']
+Document score = -42.112172881637086
+Number of praise words = 1.0
+Number of criticism words = 6.0
+
+['1-16-2021.txt']
+Document score = -0.5890077127791056
+Number of praise words = 1.0
+Number of criticism words = 1.0
+
+['1-19-2021.txt']
+Document score = -8.98515729571065
+Number of praise words = 4.0
+Number of criticism words = 4.0
+
+['1-27-2021.txt']
+Document score = 0
+Number of praise words = 0
+Number of criticism words = 0
+
+['1-31-2021.txt']
+Document score = 6.474873450898006
+Number of praise words = 2.0
+Number of criticism words = 1.0
+
+['2-4-2021.txt']
+Document score = -33.64389973466757
+Number of praise words = 7.0
+Number of criticism words = 11.0
+
+['2-7-2021.txt']
+Document score = 34.14897948169926
+Number of praise words = 6.0
+Number of criticism words = 3.0
+
+['2-15-2021.txt']
+Document score = -8.34904177344
+Number of praise words = 0
+Number of criticism words = 1.0
+
+['2-20-2021.txt']
+Document score = -0.14083081436960043
+Number of praise words = 4.0
+Number of criticism words = 4.0
+
+['3-4-2021.txt']
+Document score = 74.03943114403886
+Number of praise words = 8.0
+Number of criticism words = 2.0
+
+['3-8-2021.txt']
+Document score = -6.692050469147965
+Number of praise words = 1.0
+Number of criticism words = 2.0
+
+['3-13-2021.txt']
+Document score = 0.861778447738935
+Number of praise words = 3.0
+Number of criticism words = 3.0
+
+['4-3-2021.txt']
+Document score = 0
+Number of praise words = 0
+Number of criticism words = 0
+
+['4-10-2021.txt']
+Document score = 26.31899796024409
+Number of praise words = 2.0
+Number of criticism words = 0
+
+['4-20-2021.txt']
+Document score = 77.20000843241152
+Number of praise words = 7.0
+Number of criticism words = 1.0
+
+['4-24-2021.txt']
+Document score = -11.381420957883915
+Number of praise words = 1.0
+Number of criticism words = 3.0
+
+['5-1-2021.txt']
+Document score = 106.69538104004839
+Number of praise words = 10.0
+Number of criticism words = 0
+
+['5-8-2021.txt']
+Document score = -27.164383621366476
+Number of praise words = 3.0
+Number of criticism words = 6.0
+
+['5-12-2021.txt']
+Document score = 43.500935617763275
+Number of praise words = 10.0
+Number of criticism words = 7.0
+
+['5-18-2021.txt']
+Document score = -21.78816439450192
+Number of praise words = 3.0
+Number of criticism words = 6.0
+
+['5-23-2021.txt']
+Document score = 9.001055801589885
+Number of praise words = 2.0
+Number of criticism words = 2.0
+
+['9-14-2020.txt']
+Document score = 77.20000843241152
+Number of praise words = 7.0
+Number of criticism words = 1.0
+
+['9-20-2020.txt']
+Document score = 126.53280072095903
+Number of praise words = 12.0
+Number of criticism words = 2.0
+
+['9-26-2020.txt']
+Document score = 4.62558327508726
+Number of praise words = 1.0
+Number of criticism words = 0
+
+['10-3-2020.txt']
+Document score = 38.69196095426092
+Number of praise words = 3.0
+Number of criticism words = 0
+
+['10-17-2020.txt']
+Document score = 8.63483601159767
+Number of praise words = 1.0
+Number of criticism words = 0
+
+['10-31-2020.txt']
+Document score = 64.58746220808817
+Number of praise words = 6.0
+Number of criticism words = 0
+
+['11-7-2020.txt']
+Document score = 127.04373417372263
+Number of praise words = 15.0
+Number of criticism words = 4.0
+
+['11-21-2020.txt']
+Document score = -8.34904177344
+Number of praise words = 0
+Number of criticism words = 1.0
+
+['11-29-2020.txt']
+Document score = 3.8301058073632888
+Number of praise words = 2.0
+Number of criticism words = 2.0
+
+['12-5-2020.txt']
+Document score = 18.323787889296902
+Number of praise words = 2.0
+Number of criticism words = 0
+
+['12-12-2020.txt']
+Document score = 20.67079876964645
+Number of praise words = 3.0
+Number of criticism words = 1.0
+
+['12-15-2020.txt']
+Document score = -94.09468943967762
+Number of praise words = 0
+Number of criticism words = 10.0
+
+['12-21-2020.txt']
+Document score = 22.34022461909288
+Number of praise words = 5.0
+Number of criticism words = 4.0
+
+['12-25-2020.txt']
+Document score = -2.9859938650127553
+Number of praise words = 2.0
+Number of criticism words = 2.0
+
+['12-28-2020.txt']
+Document score = 13.709746187770628
+Number of praise words = 1.0
+Number of criticism words = 0
